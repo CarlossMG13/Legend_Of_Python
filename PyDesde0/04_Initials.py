@@ -1,0 +1,7 @@
+print(' CCC   M   M')
+print('C   C  MM MM')
+print('C      MM MM')
+print('C      M M M')
+print('C      M   M')
+print('C   c  M   M')
+print(' CCC   M   M')
